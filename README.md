@@ -1,0 +1,1 @@
+# ego-free-interaction-declaration
